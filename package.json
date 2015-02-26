@@ -1,0 +1,7 @@
+{
+  "name": "mymodule",
+  "version": "1.0.0",
+  "description": "Pour montrer à quel point NPM est facile",
+  "main": "mymodule.js",
+  "author": "Xavier Blanc"
+}
